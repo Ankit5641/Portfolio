@@ -81,16 +81,19 @@ export const workData = [
         title: 'Frontend project',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link: 'https://github.com/Ankit5641/amazon-clone',       
     },
     {
         title: 'Heart disease prediction',
         description: 'Machine Learning',
         bgImage: '/work-2.png',
+        link: 'https://github.com/Ankit5641/heart-disease-app',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Big Integer Calculator',
+        description: 'Data Structure and Algorithm',
         bgImage: '/work-3.png',
+        link:'https://github.com/Ankit5641/Big-integer',
     },
     // {
     //     title: 'UI/UX designing',
